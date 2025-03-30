@@ -7,7 +7,7 @@ UPLOAD_FOLDER = 'static/files'
 PROCESSED_FOLDER = 'static/processed'
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif', 'heic'}
 BLACK_BAR_HEIGHT = 74
-
+                                            
 MACBOOK_WIDTH = 3024
 MACBOOK_HEIGHT = 1964
 
